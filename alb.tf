@@ -13,7 +13,7 @@ resource "aws_lb" "ecs-alb" {
 }
 
 resource "aws_lb_target_group" "ecs-alb-tg" {
-  name        = "siewlee-ecs-target-group"
+  name        = "siewlee-test-ecs-target-group"
   target_type = "ip"
   port        = 80
   protocol    = "HTTP"
