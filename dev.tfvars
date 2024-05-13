@@ -1,0 +1,5 @@
+ecs_cluster_name = "siewlee-ecs-cluster-dev"
+ecs_service_name = "siewlee-ecs-service-dev"
+ecs_task_defn_family = "siewlee-ecs-task-def-dev"
+ecs_container_name = "siewlee-container-dev"
+ecs_port_name = "siewlee-3000-tcp-dev"

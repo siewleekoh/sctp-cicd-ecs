@@ -1,0 +1,5 @@
+ecs_cluster_name = "siewlee-ecs-cluster-uat"
+ecs_service_name = "siewlee-ecs-service-uat"
+ecs_task_defn_family = "siewlee-ecs-task-def-uat"
+ecs_container_name = "siewlee-container-uat"
+ecs_port_name = "siewlee-3000-tcp-uat"
